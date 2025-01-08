@@ -1,0 +1,519 @@
+{
+    "characters": [
+        {
+            "name": "평범남",
+            "description": "평범한 남학생",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "아무런 효과가 없습니다.",
+            "id":1
+        },
+        {
+            "id":2,
+            "name": "평범녀",
+            "description": "평범한 여학생",
+            "genderType": "female",
+            "rank": "one",
+            "effectDescription": "아무런 효과가 없습니다."
+        },
+        {
+            "id":3,
+            "name": "거지",
+            "description": "가난하지만 굳은 의지의 소유자",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "가끔 학생들에게 구걸해 돈을 획득합니다."
+        },
+        {
+            "id":4,
+            "name": "스카우터_거지",
+            "description": "전투력 측정기",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "가끔 학생들에게 구걸해 많은 양의 돈을 획득합니다."
+        },
+        {
+            "id":5,
+            "name": "담임_선생님",
+            "description": "나는 선생이고 넌 제자",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "학생들에게 문제를 알려주고 능력치를 획득합니다."
+        },
+        {
+            "id":6,
+            "name": "신서아",
+            "description": "착하고 성실해",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "집에서 랜덤한 쿠키를 획득합니다."
+        },
+        {
+            "id":7,
+            "name": "강이현_여",
+            "description": "시크하지만 상냥해",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "특정날짜 방과후에 문제를 풀고 능력치를 획득합니다."
+        },
+        {
+            "id":8,
+            "name": "강이현_남",
+            "description": "시크하지만 상냥해",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "특정날짜 방과후에 문제를 풀고 능력치를 획득합니다."
+        },
+        {
+            "id":9,
+            "name": "신서우",
+            "description": "착하고 성실해",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "집에서 랜덤한 쿠키를 획득합니다."
+        },
+        {
+            "id":10,
+            "name": "남동생",
+            "genderType": "male",
+            "rank": "one"
+        },
+        {
+            "id":13,
+            "name": "금태양",
+            "description": "엄친아",
+            "genderType": "male",
+            "rank": "three",
+            "effectDescription": "일정확률로 운동경험치, 돈, 공부 능력치를 획득합니다."
+        },
+        {
+            "id":14,
+            "name": "금하린",
+            "description": "엄친딸",
+            "genderType": "female",
+            "rank": "three",
+            "effectDescription": "일정확률로 운동경험치, 돈, 공부 능력치를 획득합니다."
+        },
+        {
+            "id":15,
+            "name": "최면술사",
+            "description": "후원자의 증표",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "최면을 걸고 돈을 획득합니다."
+        },
+        {
+            "id":22,
+            "name": "꼬마",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "가끔 애교를 부리고 돈을 획득합니다."
+        },
+        {
+            "id":16,
+            "name": "김재현",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "운동경험치를 5% 더 획득합니다."
+        },
+        {
+            "id":21,
+            "name": "김한나",
+            "genderType": "female",
+            "rank": "one",
+            "effectDescription": "알바경험치를 5% 더 획득합니다."
+        },
+        {
+            "id":17,
+            "name": "강시호",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "국어 공부 효율이 +3 증가합니다."
+        },
+        {
+            "id":18,
+            "name": "강시은",
+            "description": "",
+            "genderType": "female",
+            "rank": "one",
+            "effectDescription": "영어 공부 효율이 +3 증가합니다."
+        },
+        {
+            "id":19,
+            "name": "나해설",
+            "description": "",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "[알바특화장소]에서 가끔 특별 알바를 합니다."
+        },
+        {
+            "id":20,
+            "name": "남해설",
+            "description": "",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "[알바특화장소]에서 가끔 특별 알바를 합니다."
+        },
+        {
+            "id":44,
+            "name": "산타남",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "아무효과도 없습니다."
+        },
+        {
+            "id":45,
+            "name": "산타녀",
+            "genderType": "female",
+            "rank": "one",
+            "effectDescription": "아무효과도 없습니다."
+        },
+        {
+            "id":30,
+            "name": "산타_신서아",
+            "description": "",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "집에서 가끔 쿠키를 굽습니다."
+        },
+        {
+            "id":31,
+            "name": "산타_신서우",
+            "description": "",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "집에서 가끔 쿠키를 굽습니다."
+        },
+        {
+            "id":32,
+            "name": "산타_강이현_여",
+            "description": "",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "엘리트 산타로서의 자질을 확인합니다."
+        },
+        {
+            "id":33,
+            "name": "산타_강이현_남",
+            "description": "",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "엘리트 산타로서의 자질을 확인합니다."
+        },
+        {
+            "id":34,
+            "name": "산타",
+            "description": "",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "산타의 산장에서 웨이트를 통해 경험치를 획득합니다."
+        },
+        {
+            "id":35, 
+            "name": "루돌프",
+            "description": "",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "집, 루돌프 정비소에서 웨이트를 통해 경험치를 획득합니다.빨간코 없이 루돌프 정비소에 입장 가능합니다."
+        },
+        {
+            "id":36,
+            "name": "여동생",
+            "description": "",
+            "genderType": "female",
+            "rank": "one",
+            "effectDescription": "초기 돈을 2500원 가지고 시작합니다."
+        },
+        {
+            "id":37,
+            "name": "산타_거지",
+            "description": "",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "구걸을 통해 돈을 획득합니다."
+        },
+        {
+            "id":38,
+            "name": "산타_선생님",
+            "description": "",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "친구들과 놀며, 체력을 획득합니다."
+        },
+        {
+            "id":39,
+            "name": "비실_루돌프",
+            "description": "",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "알바경험치 획득량이 +5% 증가합니다. 빨간코 없이 루돌프 정비소에 입장 가능합니다."
+        },
+        {
+            "id":40,
+            "name": "의사",
+            "description": "",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "한파로 인한 피해를 치료합니다."
+        },
+        {
+            "id":41,
+            "name": "아이",
+            "description": "",
+            "genderType": "female",
+            "rank": "one",
+            "effectDescription": "국어 공부효율이 +3 증가합니다."
+        },
+        {
+            "id":42,
+            "name": "김오수",
+            "description": "",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "수학공부효율이 +3 증가합니다."
+        },
+        {
+            "id":43,
+            "name": "설녀",
+            "description": "",
+            "genderType": "female",
+            "rank": "three",
+            "effectDescription": "추위로 인한 모든 피해를 무력화 하고, 공부능력치를 획득합니다."
+        },
+        {
+            "id":68,
+            "name": "재수남",
+            "description": "",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "아무효과도 없습니다."
+        },
+        {
+            "id":69,
+            "name": "재수녀",
+            "description": "",
+            "genderType": "female",
+            "rank": "one",
+            "effectDescription": "아무효과도 없습니다."
+        },
+        {
+            "id":50,
+            "name": "나반장",
+            "description": "",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "운동경험치를 7% 더 획득합니다."
+        },
+        {
+            "id":51,
+            "name": "이지안_여",
+            "description": "",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "그림을 그려 돈을 획득합니다."
+        },
+        {
+            "id":52,
+            "name": "이지안_남",
+            "description": "",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "그림을 그려 돈을 획득합니다."
+        },
+        {
+            "id":53,
+            "name": "하지수",
+            "description": "",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "기억을 되찾아 랜덤하게 특정공부 능력치를 획득합니다."
+        },
+        {
+            "id":54,
+            "name": "하진수",
+            "description": "",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "기억을 되찾아 랜덤하게 특정공부 능력치를 획득합니다."
+        },
+        {
+            "id":55,
+            "name": "지수인_여",
+            "description": "",
+            "genderType": "female",
+            "rank": "one",
+            "effectDescription": "친구에게서 돈을 획득합니다."
+        },
+        {
+            "id":56,
+            "name": "지수인_남",
+            "description": "",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "친구에게서 돈을 획득합니다."
+        },
+        {
+            "id":58,
+            "name": "엘니뇨",
+            "description": "",
+            "genderType": "male",
+            "rank": "three",
+            "effectDescription": "주기적으로 A~B 특성을 무작위로 획득합니다."
+        },
+        {
+            "id":59,
+            "name": "라니냐",
+            "description": "",
+            "genderType": "female",
+            "rank": "three",
+            "effectDescription": "주기적으로 A~B 특성을 무작위로 획득합니다."
+        },
+        {
+            "id":61,
+            "name": "후후덕",
+            "description": "",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "일정확률로 음식을 획득합니다."
+        },
+        {
+            "id":62,
+            "name": "사감_선생님",
+            "description": "",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "기숙사 휴게 시설에서 체력을 회복합니다."
+        },
+        {
+            "id":63,
+            "name": "강사님",
+            "description": "",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "학원 비법 족보에서 추가 공부 능력치를 획득합니다."
+        },
+        {
+            "id":64,
+            "name": "김사장",
+            "description": "",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "초기 돈 2500원을 가지고 시작합니다."
+        },
+        {
+            "id":65,
+            "name": "정우희",
+            "description": "",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "문제를 맞히고 공부 능력치를 획득합니다."
+        },
+        {
+            "id":66,
+            "name": "강효은",
+            "description": "",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "음식 제작에서 이상한 쿠키를 획득합니다."
+        },
+        {
+            "id":67,
+            "name": "나는야_골목대장",
+            "description": "",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "노래 대결에서 반드시 승리하고, 노래연습을 할 때마다 돈을 획득합니다."
+        },
+        {
+            "id":10041,
+            "name": "유채림",
+            "genderType": "female",
+            "rank": "three",
+            "effectDescription": "다른 캐릭터의 능력을 무작위로 사용합니다."
+        },
+        {
+            "id":10042,
+            "name": "유채민",
+            "genderType": "male",
+            "rank": "three",
+            "effectDescription": "하루마다 무작위로 모범생들의 공부법을 선택합니다."
+        },
+        {
+            "id":10043,
+            "name": "차진성",
+            "genderType": "male",
+            "rank": "three",
+            "effectDescription": "연구를 통해 다양한 아이템들을 제작합니다."
+        },
+        {
+            "id":10044,
+            "name": "김사화_남",
+            "genderType": "male",
+            "rank": "three",
+            "effectDescription": "초능력 연습 블록이 추가됩니다. 이를 통해 스킬 특성들을 획득합니다."
+        },
+        {
+            "id":10045,
+            "name": "김사화_여",
+            "genderType": "female",
+            "rank": "three",
+            "effectDescription": "괴수를 처치하고 전투보상을 획득합니다."
+        },
+        {
+            "id":10046,
+            "name": "박해영",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "부모님의 다양한 지원을 받습니다."
+        },
+        {
+            "id":10047,
+            "name": "박해운",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "부모님의 다양한 지원을 받습니다."
+        },
+        {
+            "id":10048,
+            "name": "투명인간",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "사람을 돕고 랜덤한 보상을 획득합니다."
+        },
+        {
+            "id":10049,
+            "name": "괴력_능력자",
+            "genderType": "male",
+            "rank": "two",
+            "effectDescription": "3대가 올라갈 때마다 공부효율이 증가합니다."
+        },
+        {
+            "id":10050,
+            "name": "송우주",
+            "genderType": "male",
+            "rank": "one",
+            "effectDescription": "[공부특화장소]에서 공부효율이 +1 증가합니다."
+        },
+        {
+            "id":10051,
+            "name": "장연지",
+            "genderType": "female",
+            "rank": "one",
+            "effectDescription": "학교에서 공부효율이 +1 증가합니다."
+        },
+        {
+            "id":71,
+            "name": "의대생_강이현",
+            "genderType": "female",
+            "rank": "three",
+            "effectDescription": "아픈 사람을 진단해주고 공부 능력치를 획득합니다."
+        },
+        {
+            "id":10058,
+            "name": "반장_강이현",
+            "genderType": "female",
+            "rank": "two",
+            "effectDescription": "학교에서 학급회의를 진행하고 랜덤으로 효과를 획득합니다."
+        }
+    ]
+}

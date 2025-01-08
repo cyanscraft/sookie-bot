@@ -1,0 +1,398 @@
+{
+  "endings": [
+    {
+      "endingCode": 150001,
+      "endingName": "진엔딩",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 140001,
+      "endingName": "진엔딩"
+    },
+    {
+      "endingCode": 140002,
+      "endingName": "일반엔딩"
+    },
+    {
+      "endingCode": 140003,
+      "endingName": "최후의 엔딩"
+    },
+    {
+      "endingCode": 140004,
+      "endingName": "재수엔딩"
+    },
+    {
+      "endingCode": 30000,
+      "endingName": "일반 배드엔딩",
+      "cookieCount": 1
+    },
+    {
+      "endingCode": 30001,
+      "endingName": "강이현 배드엔딩",
+      "cookieCount": 1
+    },
+    {
+      "endingCode": 30002,
+      "endingName": "신서아/신서우 배드엔딩",
+      "cookieCount": 1
+    },
+    {
+      "endingCode": 30003,
+      "endingName": "강이현 진엔딩",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 30004,
+      "endingName": "강이현 일반엔딩1",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 30005,
+      "endingName": "강이현 일반엔딩2",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 30006,
+      "endingName": "강이현 히든엔딩",
+      "cookieCount": 5
+    },
+    {
+      "endingCode": 30007,
+      "endingName": "신서아/신서우 진엔딩1",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 30008,
+      "endingName": "신서아/신서우 진엔딩2",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 30009,
+      "endingName": "신서아/신서우 일반엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 30010,
+      "endingName": "신서아/신서우 히든엔딩",
+      "cookieCount": 5
+    },
+    {
+      "endingCode": 30011,
+      "endingName": "일반엔딩1",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 30012,
+      "endingName": "일반엔딩2",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 30013,
+      "endingName": "히든엔딩",
+      "cookieCount": 4
+    },
+    {
+      "endingCode": 160003,
+      "endingName": "궁극의 아이돌"
+    },
+    {
+      "endingCode": 160001,
+      "endingName": "전국 최강"
+    },
+    {
+      "endingCode": 160002,
+      "endingName": "은퇴한 최강자"
+    },
+    {
+      "endingCode": 160004,
+      "endingName": "초엘리트 엔딩"
+    },
+    {
+      "endingCode": 160005,
+      "endingName": "엘리트 엔딩"
+    },
+    {
+      "endingCode": 160006,
+      "endingName": "행복한 엔딩"
+    },
+    {
+      "endingCode": 160007,
+      "endingName": "깨달음"
+    },
+    {
+      "endingCode": 160008,
+      "endingName": "수험생 끝"
+    },
+    {
+      "endingCode": 160009,
+      "endingName": "재수 엔딩"
+    },
+    {
+      "endingCode": 160010,
+      "endingName": "프로게이머 엔딩"
+    },
+    {
+      "endingCode": 160011,
+      "endingName": "성공한 사업가"
+    },
+    {
+      "endingCode": 160012,
+      "endingName": "축구 선수 엔딩"
+    },
+    {
+      "endingCode": 160013,
+      "endingName": "요리왕"
+    },
+    {
+      "endingCode": 160014,
+      "endingName": "웹툰 작가 엔딩"
+    },
+    {
+      "endingCode": 160015,
+      "endingName": "반장 강이현 엔딩"
+    },
+    {
+      "endingCode": 180001,
+      "endingName": "영원한 겨울 엔딩",
+      "cookieCount": 1
+    },
+    {
+      "endingCode": 180002,
+      "endingName": "산타 엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 180003,
+      "endingName": "겨울을 끝낸 자",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 180005,
+      "endingName": "내가 선택한 세계",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 180007,
+      "endingName": "유명인 엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 180008,
+      "endingName": "엘리트 산타 엔딩",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 180009,
+      "endingName": "모두의 구원자",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 180010,
+      "endingName": "뚱치타치",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 180011,
+      "endingName": "재수엔딩",
+      "cookieCount": 1
+    },
+    {
+      "endingCode": 180013,
+      "endingName": "국가대표",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 180014,
+      "endingName": "쿠키 좋아",
+      "cookieCount": 2,
+      "isSpecialEnding": true
+    },
+    {
+      "endingCode": 180015,
+      "endingName": "최강 루돌프",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 200001,
+      "endingName": "평범한 엔딩",
+      "cookieCount": 1
+    },
+    {
+      "endingCode": 200002,
+      "endingName": "멸망 엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 200003,
+      "endingName": "다시 실패자 엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 200004,
+      "endingName": "진엔딩",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 200005,
+      "endingName": "나 홀로 엔딩",
+      "cookieCount": 1
+    },
+    {
+      "endingCode": 200006,
+      "endingName": "삼수 엔딩",
+      "cookieCount": 1
+    },
+    {
+      "endingCode": 200007,
+      "endingName": "나름 해피엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 200008,
+      "endingName": "이지안 트루 엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 200009,
+      "endingName": "의대 엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 200010,
+      "endingName": "의대 커플 엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 200011,
+      "endingName": "반장과 함께 엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 200012,
+      "endingName": "한의사 엔딩",
+      "cookieCount": 2,
+      "isSpecialEnding": true
+    },
+    {
+      "endingCode": 200013,
+      "endingName": "우정 엔딩",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 420000,
+      "endingName": "배드엔딩1",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420001,
+      "endingName": "배드엔딩2",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420002,
+      "endingName": "배드엔딩3",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420003,
+      "endingName": "일반엔딩1",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420004,
+      "endingName": "일반엔딩2",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420005,
+      "endingName": "유채림/유채민 배드엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420006,
+      "endingName": "유채림/유채민 일반엔딩1",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420007,
+      "endingName": "유채림/유채민 진엔딩1",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420008,
+      "endingName": "유채림/유채민 진엔딩2",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420009,
+      "endingName": "유채림/유채민 일반엔딩2",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420010,
+      "endingName": "유채림/유채민 히든엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420011,
+      "endingName": "히든엔딩: 즐거운 사무소 라이프!",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420012,
+      "endingName": "일반엔딩3",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420013,
+      "endingName": "진엔딩",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420014,
+      "endingName": "유채림/유채민 히든엔딩2",
+      "cookieCount": 2,
+      "isSpecialEnding": true
+    },
+    {
+      "endingCode": 420015,
+      "endingName": "히든엔딩: 교화",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420016,
+      "endingName": "히든엔딩: 권선징악",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 420017,
+      "endingName": "유채림/유채민 배드엔딩2",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 490001,
+      "endingName": "진엔딩: 매우 만족한 인생!!!",
+      "cookieCount": 5
+    },
+    {
+      "endingCode": 490002,
+      "endingName": "일반엔딩1: 나쁘지 않은 인생!",
+      "cookieCount": 3
+    },
+    {
+      "endingCode": 490003,
+      "endingName": "배드엔딩1: 후회",
+      "cookieCount": 2
+    },
+    {
+      "endingCode": 490004,
+      "endingName": "배드엔딩2: 모두 불합격! 최악이다",
+      "cookieCount": 1
+    },
+    {
+      "endingCode": 490005,
+      "endingName": "일반엔딩2: 내가 원했던 학과",
+      "cookieCount": 4
+    }
+  ]
+}

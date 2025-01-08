@@ -1,0 +1,389 @@
+{
+  "items": [
+    {
+      "id": 20003,
+      "name": "은반지",
+      "description": "손님의 마음이 담긴 반지",
+      "effectText": "판매 시, 20000원 획득",
+      "imgPath": "/item/20003.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20004,
+      "name": "버터 쿠키",
+      "description": "버터향이 나는 쿠키",
+      "effectText": "체력 +30",
+      "imgPath": "/item/20004.png",
+      "isStoryItem": true,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20005,
+      "name": "하얀 쿠키",
+      "description": "하얀색 쿠키",
+      "effectText": "국어 +CONSUME_STAT_150",
+      "imgPath": "/item/20005.png",
+      "isStoryItem": true,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20006,
+      "name": "노란 쿠키",
+      "description": "노란색 쿠키",
+      "effectText": "첫 번째란 탐구 능력치 +CONSUME_STAT_150",
+      "imgPath": "/item/20006.png",
+      "isStoryItem": true,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20007,
+      "name": "초록 쿠키",
+      "description": "초록색 쿠키",
+      "effectText": "두 번째 탐구 능력치 +CONSUME_STAT_150",
+      "imgPath": "/item/20007.png",
+      "isStoryItem": true,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20008,
+      "name": "빨간 쿠키",
+      "description": "빨간색 쿠키",
+      "effectText": "영어 능력치 +CONSUME_STAT_150",
+      "imgPath": "/item/20008.png",
+      "isStoryItem": true,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20009,
+      "name": "검은 쿠키",
+      "description": "검은색 쿠키",
+      "effectText": "수학 능력치 +CONSUME_STAT_150",
+      "imgPath": "/item/20009.png",
+      "isStoryItem": true,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20010,
+      "name": "에메랄드 쿠키",
+      "description": "영롱한 쿠키",
+      "effectText": "모든 과목 능력치 +CONSUME_STAT_150",
+      "imgPath": "/item/20010.png",
+      "isStoryItem": true,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20011,
+      "name": "도서관 복구 쿠폰",
+      "description": "정체를 알 수 없지만 도서관을 복구할 수 있는 쿠폰",
+      "effectText": "도서관 장소 복구",
+      "imgPath": "/item/20011.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20012,
+      "name": "힘내세요!책",
+      "description": "온갖 기운을 복돋아주는 말의 기술들이 집약되어있다.",
+      "effectText": "카페 장소 복구",
+      "imgPath": "/item/20012.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20013,
+      "name": "집 설계도",
+      "description": "이상한 집 설계도. 하지만 집을 지을 수 있을 것 같다.",
+      "effectText": "집 장소 복구",
+      "imgPath": "/item/20013.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20014,
+      "name": "탕후루",
+      "description": "스승님께서 만드신 궁극의 음식",
+      "effectText": "수학 +300",
+      "imgPath": "/item/20014.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20015,
+      "name": "생선구이",
+      "description": "스승님께서 만드신 궁극의 음식",
+      "effectText": "국어 +300",
+      "imgPath": "/item/20015.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20016,
+      "name": "된장국",
+      "description": "스승님께서 만드신 궁극의 음식",
+      "effectText": "영어 +300",
+      "imgPath": "/item/20016.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20017,
+      "name": "스승님의 걸작",
+      "description": "스승님께서 만드신 궁극의 음식",
+      "effectText": "모든 과목 능력치 +100",
+      "imgPath": "/item/20017.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20018,
+      "name": "기묘한 작가 노트",
+      "description": "의문의 작가가 남기고만 꿀팁 집합 노트. 주기적으로 보도록 하자.",
+      "effectText": "역량 확인",
+      "imgPath": "/item/20018.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20020,
+      "name": "만병통치약",
+      "description": "모든 나쁜 특성을 삭제합니다.",
+      "effectText": "모든 나쁜 특성 제거",
+      "imgPath": "/item/20020.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20021,
+      "name": "빨간 물약",
+      "description": "RPG 장르 게임에서 쉽게 볼 수 있다.",
+      "effectText": "체력 +100",
+      "imgPath": "/item/20021.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20022,
+      "name": "집중 물약",
+      "description": "집중력을 극도로 높여주는 물약",
+      "effectText": "복용날 하루 동안 모든 공부 효율 +30",
+      "imgPath": "/item/20022.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20023,
+      "name": "황금 물약",
+      "description": "어지간한 실력으로는 절대 만들 수 없다!",
+      "effectText": "모든 공부 능력치 +150",
+      "imgPath": "/item/20023.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20024,
+      "name": "종결 물약",
+      "description": "일류들만 만들 수 있는 궁극의 물약",
+      "effectText": "모든 공부 능력치 +200, 복용날 하루 동안 체력 소모량 -3",
+      "imgPath": "/item/20024.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20025,
+      "name": "강화된 에메랄드 쿠키",
+      "description": "더욱 영롱한 쿠키",
+      "effectText": "모든 공부 능력치 +500",
+      "imgPath": "/item/20010.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20026,
+      "name": "강화된 검은색 쿠키",
+      "description": "더욱 검은 쿠키",
+      "effectText": "원하는 공부 능력치 +500",
+      "imgPath": "/item/20009.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20027,
+      "name": "강화된 보라 쿠키",
+      "description": "더욱 보라 쿠키",
+      "effectText": "돈 즉시 10000원 획득",
+      "imgPath": "/item/6023.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20028,
+      "name": "거지의 보답",
+      "description": "감사함이 가득 묻어 있다",
+      "effectText": "모든 공부 능력치 +100",
+      "imgPath": "/item/20028.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20029,
+      "name": "개조된 물약",
+      "description": "뭔가 수상해 보이는 물약이다.",
+      "effectText": "사용한 하루 동안 체력 소모 -3",
+      "imgPath": "/item/7008.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20030,
+      "name": "부모님의 선물상자",
+      "description": "부모님이 지원해주신 선물이다.",
+      "effectText": "사용 시 랜덤 아이템 획득",
+      "imgPath": "/item/60002.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20031,
+      "name": "강이현의 수능 응원 선물",
+      "description": "수능을 앞두고 강이현이 준비한 선물이다.",
+      "effectText": "사용 시 랜덤 아이템 획득",
+      "imgPath": "/item/60022.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    }
+  ]
+}

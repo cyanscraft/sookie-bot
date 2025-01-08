@@ -1,0 +1,435 @@
+{
+  "items": [
+    {
+      "id": 3001,
+      "name": "스터디 플래너",
+      "description": "계획적인 공부를 도와준다",
+      "effectText": "앞으로 이 주의 목표 능력치 보상 +5%",
+      "imgPath": "/item/3001.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3002,
+      "name": "덤벨",
+      "description": "보기보다 무거운 덤벨이다",
+      "effectText": "운동 효율 +5%",
+      "imgPath": "/item/3002.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3003,
+      "name": "쌍절곤",
+      "description": "꽤 많은 연습이 필요할 것 같다",
+      "effectText": "운동 효율 +10%",
+      "imgPath": "/item/3003.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3004,
+      "name": "합격 부적",
+      "description": "미신을 믿지는 않지만.... 혹시 모를지도?",
+      "effectText": "모든 학과 합격률 +1%",
+      "imgPath": "/item/3004.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3005,
+      "name": "2단 독서대",
+      "description": "목이 편해진다",
+      "effectText": "모든 과목 공부 효율 +NORMAL_STAT_1",
+      "imgPath": "/item/3005.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3006,
+      "name": "모범생 안경",
+      "description": "모범생 느낌이 난다",
+      "effectText": "모든 과목 공부 효율 +NORMAL_STAT_1",
+      "imgPath": "/item/3006.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3007,
+      "name": "빛",
+      "description": "미래를 밝혀준다",
+      "effectText": "모든 합격률 0.1% 상승",
+      "imgPath": "/item/3007.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3008,
+      "name": "삼각자",
+      "description": "각이 보인다",
+      "effectText": "수학 공부효율 +NORMAL_STAT_1",
+      "imgPath": "/item/3008.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3009,
+      "name": "플라스크",
+      "description": "나는야 실험왕",
+      "effectText": "과탐 공부효율 +NORMAL_STAT_1",
+      "imgPath": "/item/3009.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3010,
+      "name": "요가매트",
+      "description": "홈트레이닝 필수품",
+      "effectText": "{HOME}에서 운동 효율 +10%",
+      "imgPath": "/item/3010.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [2000]
+    },
+    {
+      "id": 3011,
+      "name": "찹쌀떡",
+      "description": "부모님 세대부터 시험 보기 전 국룰",
+      "effectText": "모든 합격확률 +2%",
+      "imgPath": "/item/3011.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3012,
+      "name": "만지면 마음이 편안해지는 돌",
+      "description": "편-안",
+      "effectText": "체력 감소량 -1",
+      "imgPath": "/item/3012.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3013,
+      "name": "지구본",
+      "description": "지구를 돌려보자",
+      "effectText": "사탐 공부효율 +NORMAL_STAT_1",
+      "imgPath": "/item/3013.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3014,
+      "name": "녹음기",
+      "description": "선생님의 모든 말을 녹음하자",
+      "effectText": "수업듣기 공부효율 +NORMAL_STAT_2",
+      "imgPath": "/item/3014.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "school"
+    },
+    {
+      "id": 3015,
+      "name": "캠코더",
+      "description": "선생님 몰래 녹강 만들기",
+      "effectText": "수업듣기 공부효율 +NORMAL_STAT_4",
+      "imgPath": "/item/3015.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "school"
+    },
+    {
+      "id": 3016,
+      "name": "휴대용 쿠션",
+      "description": "선생님 몰래 잠자기 좋구만",
+      "effectText": "{SCHOOL}에서 잠자기 효율 +2",
+      "imgPath": "/item/3016.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "school"
+    },
+    {
+      "id": 3017,
+      "name": "메모리폼 베개",
+      "description": "수험생 체력 회복에 필수품",
+      "effectText": "{HOME}에서 잠자기 효율 +2",
+      "imgPath": "/item/3017.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [2000]
+    },
+    {
+      "id": 3020,
+      "name": "물통",
+      "description": "매우 큰 1.5L 물통",
+      "effectText": "[운동특화장소]에서 운동경험치 획득량 +10",
+      "imgPath": "/item/3020.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "exercise"
+    },
+    {
+      "id": 3021,
+      "name": "운동화",
+      "description": "요즘 유행하는 운동화",
+      "effectText": "[운동특화장소]에서 운동경험치 획득량 +20",
+      "imgPath": "/item/3021.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "exercise"
+    },
+    {
+      "id": 3022,
+      "name": "오버아머 운동복",
+      "description": "3대 500이하 착용 금지",
+      "effectText": "[운동특화장소]에서 운동경험치 획득량 +30",
+      "imgPath": "/item/3022.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "exercise"
+    },
+    {
+      "id": 3023,
+      "name": "계산기",
+      "description": "한푼도 놓칠 수 없다",
+      "effectText": "[알바특화장소]에서 알바 수입 20% 증가",
+      "imgPath": "/item/3023.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "partTimeJob"
+    },
+    {
+      "id": 3024,
+      "name": "근로계약서",
+      "description": "주휴수당을 빼먹으셨네요 사장님",
+      "effectText": "[알바특화장소]에서 알바 수입 30% 증가",
+      "imgPath": "/item/3024.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "partTimeJob"
+    },
+    {
+      "id": 3025,
+      "name": "포스트잇",
+      "description": "중요한 내용은 따로 적어두자",
+      "effectText": "[공부특화장소]에서 공부효율 +NORMAL_STAT_1",
+      "imgPath": "/item/3025.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "study"
+    },
+    {
+      "id": 3026,
+      "name": "형광펜",
+      "description": "제목에 형광펜은 국룰",
+      "effectText": "[공부특화장소]에서 공부효율 +NORMAL_STAT_2",
+      "imgPath": "/item/3026.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "study"
+    },
+    {
+      "id": 3027,
+      "name": "스탑워치",
+      "description": "시간을 재고 공부해보자",
+      "effectText": "[공부특화장소]에서 공부효율 +NORMAL_STAT_4",
+      "imgPath": "/item/3027.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [],
+      "locationType": "study"
+    },
+    {
+      "id": 3028,
+      "name": "3대 800 슈트",
+      "description": "3대 800 미만 착용 금지",
+      "effectText": "[3대 800이상 시]\n모든 공부효율 +NORMAL_STAT_3",
+      "imgPath": "/item/3028.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3029,
+      "name": "공부를 안하면 우는 닭",
+      "description": "꼬끼오 꼬끼오 꼬꼬꼬꼬 꼬끼오 꼬끼오 꼬꼬꼬꼬",
+      "effectText": "앞으로 이 주의 목표 능력치 보상 +15%",
+      "imgPath": "/item/3029.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 3030,
+      "name": "감사의 증표",
+      "description": "펀딩을 해주셔서 감사드립니다.\n저희 팀은 앞으로 더 좋은 게임을 만들기 위해 노력하겠습니다.",
+      "effectText": "모든 공부효율 +NORMAL_STAT_1",
+      "imgPath": "/item/3030.png",
+      "isStoryItem": false,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    }
+  ]
+}

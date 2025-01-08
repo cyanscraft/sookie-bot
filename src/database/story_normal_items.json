@@ -1,0 +1,227 @@
+{
+  "items": [
+    {
+      "id": 30001,
+      "name": "미술관 티켓",
+      "description": "교양 쌓을 기회가 생겼다",
+      "effectText": "미술관 입장에 필요하다.",
+      "imgPath": "/item/30001.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 30002,
+      "name": "꽃다발",
+      "description": "손님의 마음…?",
+      "effectText": "뭐지...?",
+      "imgPath": "/item/30002.png",
+      "isStoryItem": true,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 30003,
+      "name": "저혈압 방지 밴드",
+      "description": "이게 왜 되지??",
+      "effectText": "기립성 저혈압 방지",
+      "imgPath": "/item/30003.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 30004,
+      "name": "공원 지분",
+      "description": "공원 대주주가 되어볼까?",
+      "effectText": "공원 공사 방어",
+      "imgPath": "/item/30004.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": []
+    },
+    {
+      "id": 30005,
+      "name": "낭만주의 정신",
+      "description": "예술가는 자신의 앞에 보이는 것뿐 아니라 자신의 내부에 있는 것도 그릴 줄 알아야 한다.",
+      "effectText": "미술관에서 공부 효율 +NORMAL_STAT_3",
+      "imgPath": "/item/30005.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+        16000
+      ]
+    },
+    {
+      "id": 30006,
+      "name": "르네상스 정신",
+      "description": "재생 그리고 부활",
+      "effectText": "미술관에서 공부 효율 +NORMAL_STAT_3",
+      "imgPath": "/item/30006.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+        16000
+      ]
+    },
+    {
+      "id": 30007,
+      "name": "신고전주의정신",
+      "description": "아름다운 그리스여! 이제는 쓸모없게 된 슬픈 유적이여! 쇠락하여 영원하지 않음에도 여전히 위대하도다!",
+      "effectText": "미술관에서 공부 효율 +NORMAL_STAT_3",
+      "imgPath": "/item/30007.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+        16000
+      ]
+    },
+    {
+      "id": 30008,
+      "name": "채굴권",
+      "description": "합법적으로 채굴하자",
+      "effectText": "금광 경비원 방어",
+      "imgPath": "/item/30008.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+        16001
+      ]
+    },
+    {
+      "id": 30009,
+      "name": "슈퍼 드릴",
+      "description": "너를 믿는 나를 믿어.",
+      "effectText": "금광 알바 효율 +20%",
+      "imgPath": "/item/30009.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+        16001
+      ]
+    },
+    {
+      "id": 30010,
+      "name": "미끄럼 방지 신발",
+      "description": "어떠한 상황에서도 미끄러지지 않는다.",
+      "effectText": "개똥 타박상 방어",
+      "imgPath": "/item/30010.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+      ]
+    },
+    {
+      "id": 30011,
+      "name": "흥정의 기술",
+      "description": "4달라!!!!",
+      "effectText": "잡상인에게 싸게 구매 가능",
+      "imgPath": "/item/30011.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+      ]
+    },
+    {
+      "id": 30012,
+      "name": "설거지의 정석",
+      "description": "온갖 설거지의 기술들이 집약되어있다.",
+      "effectText": "카페 알바 실수 방지",
+      "imgPath": "/item/30012.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+      ]
+    },
+    {
+      "id": 30013,
+      "name": "미나리의 하트 에이스",
+      "description": "미나리가 마술에서 자주 쓰는 카드다.\n미나리에게 의미 있는 카드인 것 같다.",
+      "effectText": "미나리가 초조해 할 때 지니고 있었던 것 같기도...?",
+      "imgPath": "/item/30013.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+      ]
+    },
+    {
+      "id": 30014,
+      "name": "미나리의 마술 설계집",
+      "description": "미나리의 마술 철학이 담긴 설계집이다.\n세세한 행동 타이밍까지 기록되어 있다.",
+      "effectText": "마술공연에서 도움이 될지도...?",
+      "imgPath": "/item/30014.png",
+      "isStoryItem": true,
+      "maxCount": 1,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      },
+      "locationIdList": [
+      ]
+    }
+  ]
+}

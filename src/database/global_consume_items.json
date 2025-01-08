@@ -1,0 +1,623 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "커피",
+      "description": "잠을 사라지게 하는 커피이다.\n하루에 하나만 마셔야 한다.",
+      "effectText": "체력 +25",
+      "imgPath": "/item/1.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food",
+        "caffeine"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 2,
+      "name": "디카페인 커피",
+      "description": "카페인은 없지만 기분탓인지 잠이 깬다.\n대신 마음껏 먹을 수 있다.",
+      "effectText": "체력 +15",
+      "imgPath": "/item/2.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 3,
+      "name": "뻥튀기",
+      "description": "체력이 두배로! 뻥튀기!",
+      "effectText": "현재 체력 X2",
+      "imgPath": "/item/3.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 4,
+      "name": "초코우유",
+      "description": "달달한 초코우유",
+      "effectText": "체력 +50",
+      "imgPath": "/item/4.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "milk",
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 5,
+      "name": "불닭맛 라면",
+      "description": "매우매우 매운 라면이다",
+      "effectText": "'죽는다 돈까스' 획득 가능성",
+      "imgPath": "/item/5.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 6,
+      "name": "죽는다 돈까스",
+      "description": "먹으면 별이 보인다고 한다",
+      "effectText": "모든 능력치 상승",
+      "imgPath": "/item/6.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 7,
+      "name": "즉석 복권",
+      "description": "높은 금액은 잘 안 나온다고 하던데...",
+      "effectText": "랜덤 금액 당첨\n(0원 ~ 20000원)",
+      "imgPath": "/item/7.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 8,
+      "name": "이상한 문제집",
+      "description": "이상하게 생긴 문제집이다.",
+      "effectText": "랜덤 과목 능력치 +CONSUME_STAT_30",
+      "imgPath": "/item/8.png",
+      "isStoryItem": false,
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 9,
+      "name": "흰 우유",
+      "description": "칼슘 듬뿍! 먹으면 힘이 쑥쑥!",
+      "effectText": "체력 +30",
+      "imgPath": "/item/9.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food",
+        "milk"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 10,
+      "name": "고급 복권",
+      "description": "이거 하나면 부자가 될 수 있어!",
+      "effectText": "랜덤 금액 획득\n(5000원~50000원)",
+      "imgPath": "/item/10.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 11,
+      "name": "수라상",
+      "description": "이거 먹으면 임금님 되나요?",
+      "effectText": "체력 +100",
+      "imgPath": "/item/11.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 12,
+      "name": "주사위",
+      "description": "나의 행운을 믿고 던져보자",
+      "effectText": "랜덤 과목 능력치 +\n(CONSUME_STAT_20이상 CONSUME_STAT_200이하)",
+      "imgPath": "/item/12.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 13,
+      "name": "닭가슴살 핫바",
+      "description": "단백질은 못 참지",
+      "effectText": "운동 경험치 +200",
+      "imgPath": "/item/13.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 14,
+      "name": "아르기닌",
+      "description": "운동 전에는 이거 먹어야지",
+      "effectText": "사용 후 일주일 운동효과 +20",
+      "imgPath": "/item/14.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 15,
+      "name": "소금",
+      "description": "짜다 짜...",
+      "effectText": "모든 능력치 +1",
+      "imgPath": "/item/15.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 16,
+      "name": "라노벨",
+      "description": "라노벨을 읽다보면 오르는 국어 실력",
+      "effectText": "국어 능력치 +CONSUME_STAT_150",
+      "imgPath": "/item/16.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 17,
+      "name": "감기약",
+      "description": "감기를 치료해주는 약",
+      "effectText": "감기 치료",
+      "imgPath": "/item/17.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 18,
+      "name": "커피머신",
+      "description": "커피 중독자를 위한 머신",
+      "effectText": "커피 8개 획득",
+      "imgPath": "/item/18.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 19,
+      "name": "영어 단어장",
+      "description": "100000000개의 단어가 있다",
+      "effectText": "영어 능력치 +CONSUME_STAT_150",
+      "imgPath": "/item/19.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 20,
+      "name": "노하우 레시피",
+      "description": "이것만 알면 나도 알바왕!",
+      "effectText": "알바 경험치 +1000",
+      "imgPath": "/item/20.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 21,
+      "name": "궁극의 필기 노트",
+      "description": "엄청난 꿀팁이 숨어있을지도?",
+      "effectText": "모든 능력치 +CONSUME_STAT_150",
+      "imgPath": "/item/21.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 22,
+      "name": "암흑 물질",
+      "description": "우주의 비밀이 숨겨져 있다",
+      "effectText": "과탐 능력치 각각 +CONSUME_STAT_300",
+      "imgPath": "/item/22.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 23,
+      "name": "보이니치 필사본",
+      "description": "이걸 분석하다보면...",
+      "effectText": "사탐 능력치 각각 +CONSUME_STAT_300",
+      "imgPath": "/item/23.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 24,
+      "name": "가우스의 필기노트",
+      "description": "이걸 이해한다고?",
+      "effectText": "수학 능력치 +CONSUME_STAT_600",
+      "imgPath": "/item/24.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 25,
+      "name": "실전압축영어",
+      "description": "실전압축근육보다 영어",
+      "effectText": "영어 능력치 +CONSUME_STAT_600",
+      "imgPath": "/item/25.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 26,
+      "name": "훈민정음",
+      "description": "나랏말싸미 듕귁에 달아 문자와로 서르 사맛디 아니할쎄",
+      "effectText": "국어 능력치 +CONSUME_STAT_600",
+      "imgPath": "/item/26.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 27,
+      "name": "PT 이용권",
+      "description": "회원님.. 이대로는 위험합니다..!",
+      "effectText": "운동 경험치 +1000",
+      "imgPath": "/item/27.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 28,
+      "name": "도넛모양방석",
+      "description": "이제 그냥은 앉지 못하는 몸이 되어버렸어",
+      "effectText": "치질 특성 삭제",
+      "imgPath": "/item/28.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 29,
+      "name": "피나스테리드",
+      "description": "5-알파 환원효소를 막아 DHT의 생성을 저해함으로써 탈모를 막는다",
+      "effectText": "탈모 특성 삭제",
+      "imgPath": "/item/29.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 30,
+      "name": "실전모의고사",
+      "description": "명문대생들이 요즘 수능 스타일로 출제한 모의고사",
+      "effectText": "현재 능력치 기반 시험점수 확인",
+      "imgPath": "/item/30.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 31,
+      "name": "우유 소화제",
+      "description": "우유의 소화를 도와준다",
+      "effectText": "유당 불내증 특성 삭제",
+      "imgPath": "/item/31.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 32,
+      "name": "국어맛 물약",
+      "description": "이게 무슨 맛일까",
+      "effectText": "국어 책 완독 카운트 +4",
+      "imgPath": "/item/32.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 33,
+      "name": "영어맛 물약",
+      "description": "미국에서 건너 온 물약",
+      "effectText": "영어 책 완독 카운트 +4",
+      "imgPath": "/item/33.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 34,
+      "name": "수학맛 물약",
+      "description": "숫자 맛이 난다",
+      "effectText": "수학 책 완독 카운트 +4",
+      "imgPath": "/item/34.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 35,
+      "name": "탐구맛 물약",
+      "description": "맛이 씁쓸하다",
+      "effectText": "탐구 책 완독 카운트 각각 +2",
+      "imgPath": "/item/35.png",
+      "isStoryItem": false,
+      "detailTypes": [
+        "food"
+      ],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 36,
+      "name": "미녹시딜",
+      "description": "여성도 사용할 수 있는 FDA 인증 탈모 치료제",
+      "effectText": "탈모 특성 삭제",
+      "imgPath": "/item/36.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 37,
+      "name": "수학 공식집",
+      "description": "흥미로운 수학 공식들이 한가득!",
+      "effectText": "수학 능력치 +CONSUME_STAT_150",
+      "imgPath": "/item/37.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 38,
+      "name": "신문지",
+      "description": "최신 시사 정보부터 과학계 소식까지!",
+      "effectText": "탐구 능력치 각각 +CONSUME_STAT_75",
+      "imgPath": "/item/38.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 40,
+      "name": "개발자의 국어 선물 상자",
+      "description": "감사함이 가득! 가득!",
+      "effectText": "국어 능력치 +CONSUME_STAT_300",
+      "imgPath": "/item/40.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 41,
+      "name": "개발자의 수학 선물 상자",
+      "description": "감사함이 가득! 가득!",
+      "effectText": "수학 능력치 +CONSUME_STAT_300",
+      "imgPath": "/item/41.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 42,
+      "name": "개발자의 영어 선물 상자",
+      "description": "감사함이 가득! 가득!",
+      "effectText": "영어 능력치 +CONSUME_STAT_300",
+      "imgPath": "/item/42.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "id": 43,
+      "name": "개발자의 탐구 선물 상자",
+      "description": "감사함이 가득! 가득!",
+      "effectText": "탐구 능력치 각각 +CONSUME_STAT_150",
+      "imgPath": "/item/43.png",
+      "isStoryItem": false,
+      "detailTypes": [],
+      "minVersion": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    }
+  ]
+}
